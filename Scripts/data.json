@@ -1,0 +1,598 @@
+﻿{
+  "teams": [
+    {
+      "name": "Russland",
+      "iso2": "ru",
+      "fifaCode": "RUS",
+      "group": "A"
+    },
+    {
+      "name": "Saudi-Arabien",
+      "iso2": "sa",
+      "fifaCode": "KSA",
+      "group": "A"
+    },
+    {
+      "name": "Ägypten",
+      "iso2": "eg",
+      "fifaCode": "EGY",
+      "group": "A"
+    },
+    {
+      "name": "Uruguay",
+      "iso2": "uy",
+      "fifaCode": "URU",
+      "group": "A"
+    },
+    {
+      "name": "Portugal",
+      "iso2": "pt",
+      "fifaCode": "POR",
+      "group": "B"
+    },
+    {
+      "name": "Spanien",
+      "iso2": "es",
+      "fifaCode": "ESP",
+      "group": "B"
+    },
+    {
+      "name": "Marokko",
+      "iso2": "ma",
+      "fifaCode": "MAR",
+      "group": "B"
+    },
+    {
+      "name": "Iran",
+      "iso2": "ir",
+      "fifaCode": "IRN",
+      "group": "B"
+    },
+    {
+      "name": "Frankreich",
+      "iso2": "fr",
+      "fifaCode": "FRA",
+      "group": "C"
+    },
+    {
+      "name": "Australien",
+      "iso2": "au",
+      "fifaCode": "AUS",
+      "group": "C"
+    },
+    {
+      "name": "Peru",
+      "iso2": "pe",
+      "fifaCode": "PER",
+      "group": "C"
+    },
+    {
+      "name": "Dänemark",
+      "iso2": "dk",
+      "fifaCode": "DEN",
+      "group": "C"
+    },
+    {
+      "name": "Argentinien",
+      "iso2": "ar",
+      "fifaCode": "ARG",
+      "group": "D"
+    },
+    {
+      "name": "Island",
+      "iso2": "is",
+      "fifaCode": "ISL",
+      "group": "D"
+    },
+    {
+      "name": "Kroatien",
+      "iso2": "hr",
+      "fifaCode": "CRO",
+      "group": "D"
+    },
+    {
+      "name": "Nigeria",
+      "iso2": "ng",
+      "fifaCode": "NGA",
+      "group": "D"
+    },
+    {
+      "name": "Brasilien",
+      "iso2": "br",
+      "fifaCode": "BRA",
+      "group": "E"
+    },
+    {
+      "name": "Schweiz",
+      "iso2": "ch",
+      "fifaCode": "SUI",
+      "group": "E"
+    },
+    {
+      "name": "Costa Rica",
+      "iso2": "cr",
+      "fifaCode": "CRC",
+      "group": "E"
+    },
+    {
+      "name": "Serbien",
+      "iso2": "rs",
+      "fifaCode": "SRB",
+      "group": "E"
+    },
+    {
+      "name": "Deutschland",
+      "iso2": "de",
+      "fifaCode": "GER",
+      "group": "F"
+    },
+    {
+      "name": "Mexico",
+      "iso2": "mx",
+      "fifaCode": "MEX",
+      "group": "F"
+    },
+    {
+      "name": "Schweden",
+      "iso2": "se",
+      "fifaCode": "SWE",
+      "group": "F"
+    },
+    {
+      "name": "Süd Korea",
+      "iso2": "kr",
+      "fifaCode": "KOR",
+      "group": "F"
+    },
+    {
+      "name": "Belgien",
+      "iso2": "be",
+      "fifaCode": "BEL",
+      "group": "G"
+    },
+    {
+      "name": "Panama",
+      "iso2": "pa",
+      "fifaCode": "PAN",
+      "group": "G"
+    },
+    {
+      "name": "Tunesien",
+      "iso2": "tn",
+      "fifaCode": "TUN",
+      "group": "G"
+    },
+    {
+      "name": "England",
+      "iso2": "gb-eng",
+      "fifaCode": "ENG",
+      "group": "G"
+    },
+    {
+      "name": "Polen",
+      "iso2": "pl",
+      "fifaCode": "POL",
+      "group": "H"
+    },
+    {
+      "name": "Senegal",
+      "iso2": "sn",
+      "fifaCode": "SEN",
+      "group": "H"
+    },
+    {
+      "name": "Kolumbien",
+      "iso2": "co",
+      "fifaCode": "COL",
+      "group": "H"
+    },
+    {
+      "name": "Japan",
+      "iso2": "jp",
+      "fifaCode": "JPN",
+      "group": "H"
+    }
+  ],
+  "games": [
+    {
+      "Start": "2022-06-14T18:00:00+03:00",
+      "TeamA": "ru",
+      "TeamB": "sa",
+      "Type": "Group",
+      "Group": "A"
+    },
+    {
+      "Type": "group",
+      "TeamA": "eg",
+      "TeamB": "uy",
+      "Start": "2022-06-15T17:00:00+05:00",
+      "Group": "A"
+    },
+    {
+      "Type": "group",
+      "TeamA": "ru",
+      "TeamB": "eg",
+      "Start": "2022-06-19T21:00:00+03:00",
+      "Group": "A"
+    },
+    {
+      "Type": "group",
+      "TeamA": "uy",
+      "TeamB": "sa",
+      "Start": "2022-06-20T18:00:00+03:00",
+      "Group": "A"
+    },
+    {
+      "Type": "group",
+      "TeamA": "uy",
+      "TeamB": "ru",
+      "Start": "2022-06-25T18:00:00+04:00",
+      "Group": "A"
+    },
+    {
+      "Type": "group",
+      "TeamA": "sa",
+      "TeamB": "eg",
+      "Start": "2022-06-25T17:00:00+03:00",
+      "Group": "A"
+    },
+    {
+      "Type": "group",
+      "TeamA": "pt",
+      "TeamB": "es",
+      "Start": "2022-06-15T21:00:00+03:00",
+      "Group": "B"
+    },
+    {
+      "Type": "group",
+      "TeamA": "ma",
+      "TeamB": "ir",
+      "Start": "2022-06-15T18:00:00+03:00",
+      "Group": "B"
+    },
+    {
+      "Type": "group",
+      "TeamA": "pt",
+      "TeamB": "ma",
+      "Start": "2022-06-20T15:00:00+03:00",
+      "Group": "B"
+    },
+    {
+      "Type": "group",
+      "TeamA": "ir",
+      "TeamB": "es",
+      "Start": "2022-06-20T21:00:00+03:00",
+      "Group": "B"
+    },
+    {
+      "Type": "group",
+      "TeamA": "ir",
+      "TeamB": "pt",
+      "Start": "2022-06-25T21:00:00+03:00",
+      "Group": "B"
+    },
+    {
+      "Type": "group",
+      "TeamA": "es",
+      "TeamB": "ma",
+      "Start": "2022-06-25T20:00:00+02:00",
+      "Group": "B"
+    },
+    {
+      "Type": "group",
+      "TeamA": "fr",
+      "TeamB": "au",
+      "Start": "2022-06-16T13:00:00+03:00",
+      "Group": "C"
+    },
+    {
+      "Type": "group",
+      "TeamA": "pe",
+      "TeamB": "dk",
+      "Start": "2022-06-16T19:00:00+03:00",
+      "Group": "C"
+    },
+    {
+      "Type": "group",
+      "TeamA": "fr",
+      "TeamB": "pe",
+      "Start": "2022-06-21T20:00:00+05:00",
+      "Group": "C"
+    },
+    {
+      "Type": "group",
+      "TeamA": "dk",
+      "TeamB": "au",
+      "Start": "2022-06-21T16:00:00+04:00",
+      "Group": "C"
+    },
+    {
+      "Type": "group",
+      "TeamA": "dk",
+      "TeamB": "fr",
+      "Start": "2022-06-26T17:00:00+03:00",
+      "Group": "C"
+    },
+    {
+      "Type": "group",
+      "TeamA": "au",
+      "TeamB": "pe",
+      "Start": "2022-06-26T17:00:00+02:00",
+      "Group": "C"
+    },
+    {
+      "Type": "group",
+      "TeamA": "ar",
+      "TeamB": "is",
+      "Start": "2022-06-16T16:00:00+03:00",
+      "Group": "D"
+    },
+    {
+      "Type": "group",
+      "TeamA": "hr",
+      "TeamB": "ng",
+      "Start": "2022-06-16T21:00:00+02:00",
+      "Group": "D"
+    },
+    {
+      "Type": "group",
+      "TeamA": "ar",
+      "TeamB": "hr",
+      "Start": "2022-06-21T21:00:00+03:00",
+      "Group": "D"
+    },
+    {
+      "Type": "group",
+      "TeamA": "ng",
+      "TeamB": "is",
+      "Start": "2022-06-22T18:00:00+03:00",
+      "Group": "D"
+    },
+    {
+      "Type": "group",
+      "TeamA": "ng",
+      "TeamB": "ar",
+      "Start": "2022-06-26T21:00:00+03:00",
+      "Group": "D"
+    },
+    {
+      "Type": "group",
+      "TeamA": "is",
+      "TeamB": "hr",
+      "Start": "2022-06-26T21:00:00+03:00",
+      "Group": "D"
+    },
+    {
+      "Type": "group",
+      "TeamA": "br",
+      "TeamB": "ch",
+      "Start": "2022-06-17T21:00:00+03:00",
+      "Group": "E"
+    },
+    {
+      "Type": "group",
+      "TeamA": "cr",
+      "TeamB": "rs",
+      "Start": "2022-06-17T16:00:00+04:00",
+      "Group": "E"
+    },
+    {
+      "Type": "group",
+      "TeamA": "br",
+      "TeamB": "cr",
+      "Start": "2022-06-22T15:00:00+03:00",
+      "Group": "E"
+    },
+    {
+      "Type": "group",
+      "TeamA": "rs",
+      "TeamB": "ch",
+      "Start": "2022-06-22T20:00:00+02:00",
+      "Group": "E"
+    },
+    {
+      "Type": "group",
+      "TeamA": "rs",
+      "TeamB": "br",
+      "Start": "2022-06-27T21:00:00+03:00",
+      "Group": "E"
+    },
+    {
+      "Type": "group",
+      "TeamA": "ch",
+      "TeamB": "cr",
+      "Start": "2022-06-27T21:00:00+03:00",
+      "Group": "E"
+    },
+    {
+      "Type": "group",
+      "TeamA": "de",
+      "TeamB": "mx",
+      "Start": "2022-06-17T18:00:00+03:00",
+      "Group": "F"
+    },
+    {
+      "Type": "group",
+      "TeamA": "se",
+      "TeamB": "kr",
+      "Start": "2022-06-18T15:00:00+03:00",
+      "Group": "F"
+    },
+    {
+      "Type": "group",
+      "TeamA": "de",
+      "TeamB": "se",
+      "Start": "2022-06-23T21:00:00+03:00",
+      "Group": "F"
+    },
+    {
+      "Type": "group",
+      "TeamA": "kr",
+      "TeamB": "mx",
+      "Start": "2022-06-23T18:00:00+03:00",
+      "Group": "F"
+    },
+    {
+      "Type": "group",
+      "TeamA": "kr",
+      "TeamB": "de",
+      "Start": "2022-06-27T17:00:00+03:00",
+      "Group": "F"
+    },
+    {
+      "Type": "group",
+      "TeamA": "mx",
+      "TeamB": "se",
+      "Start": "2022-06-27T19:00:00+05:00",
+      "Group": "F"
+    },
+    {
+      "Type": "group",
+      "TeamA": "be",
+      "TeamB": "pa",
+      "Start": "2022-06-18T18:00:00+03:00",
+      "Group": "G"
+    },
+    {
+      "Type": "group",
+      "TeamA": "tn",
+      "TeamB": "gb-eng",
+      "Start": "2022-06-18T21:00:00+03:00",
+      "Group": "G"
+    },
+    {
+      "Type": "group",
+      "TeamA": "be",
+      "TeamB": "tn",
+      "Start": "2022-06-23T15:00:00+03:00",
+      "Group": "G"
+    },
+    {
+      "Type": "group",
+      "TeamA": "gb-eng",
+      "TeamB": "pa",
+      "Start": "2022-06-24T15:00:00+03:00",
+      "Group": "G"
+    },
+    {
+      "Type": "group",
+      "TeamA": "gb-eng",
+      "TeamB": "be",
+      "Start": "2022-06-28T20:00:00+02:00",
+      "Group": "G"
+    },
+    {
+      "Type": "group",
+      "TeamA": "pa",
+      "TeamB": "tn",
+      "Start": "2022-06-28T21:00:00+03:00",
+      "Group": "G"
+    },
+    {
+      "Type": "group",
+      "TeamA": "pl",
+      "TeamB": "sn",
+      "Start": "2022-06-19T18:00:00+03:00",
+      "Group": "H"
+    },
+    {
+      "Type": "group",
+      "TeamA": "co",
+      "TeamB": "jp",
+      "Start": "2022-06-19T15:00:00+03:00",
+      "Group": "H"
+    },
+    {
+      "Type": "group",
+      "TeamA": "pl",
+      "TeamB": "co",
+      "Start": "2022-06-24T20:00:00+05:00",
+      "Group": "H"
+    },
+    {
+      "Type": "group",
+      "TeamA": "jp",
+      "TeamB": "sn",
+      "Start": "2022-06-24T21:00:00+03:00",
+      "Group": "H"
+    },
+    {
+      "Type": "group",
+      "TeamA": "jp",
+      "TeamB": "pl",
+      "Start": "2022-06-28T17:00:00+03:00",
+      "Group": "H"
+    },
+    {
+      "Type": "group",
+      "TeamA": "sn",
+      "TeamB": "co",
+      "Start": "2022-06-28T18:00:00+04:00",
+      "Group": "H"
+    },
+    {
+      "Type": "LastSixteen",
+      "Start": "2022-06-30T17:00:00+03:00"
+    },
+    {
+      "Type": "LastSixteen",
+      "Start": "2022-06-30T21:00:00+03:00"
+    },
+    {
+      "Type": "LastSixteen",
+      "Start": "2022-07-01T17:00:00+03:00"
+    },
+    {
+      "Type": "LastSixteen",
+      "Start": "2022-07-01T21:00:00+03:00"
+    },
+    {
+      "Type": "LastSixteen",
+      "Start": "2022-07-02T18:00:00+04:00"
+    },
+    {
+      "Type": "LastSixteen",
+      "Start": "2022-07-02T21:00:00+03:00"
+    },
+    {
+      "Type": "LastSixteen",
+      "Start": "2022-07-03T17:00:00+03:00"
+    },
+    {
+      "Type": "LastSixteen",
+      "Start": "2022-07-03T21:00:00+03:00"
+    },
+    {
+      "Type": "LastEight",
+      "Start": "2022-07-06T17:00:00+03:00"
+    },
+    {
+      "Type": "LastEight",
+      "Start": "2022-07-06T21:00:00+03:00"
+    },
+    {
+      "Type": "LastEight",
+      "Start": "2022-07-07T21:00:00+03:00"
+    },
+    {
+      "Type": "LastEight",
+      "Start": "2022-07-07T18:00:00+04:00"
+    },
+    {
+      "Type": "LastFour",
+      "Start": "2022-07-10T21:00:00+03:00"
+    },
+    {
+      "Type": "LastFour",
+      "Start": "2022-07-11T21:00:00+03:00"
+    },
+    {
+      "Type": "LastTwoLoser",
+      "Start": "2022-07-14T17:00:00+03:00"
+    },
+    {
+      "Type": "LastTwo",
+      "Start": "2022-07-15T18:00:00+03:00"
+    }
+  ]
+}

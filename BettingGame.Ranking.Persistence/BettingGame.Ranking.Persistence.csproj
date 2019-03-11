@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BettingGame.Framework.MongoDb\BettingGame.Framework.MongoDb.csproj" />
+    <ProjectReference Include="..\BettingGame.Ranking.Core\BettingGame.Ranking.Core.csproj" />
+  </ItemGroup>
+
+</Project>
