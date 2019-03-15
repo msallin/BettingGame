@@ -40,7 +40,7 @@ function Get-Profile {
         [Parameter(Mandatory=$true)]
         [string]$Jwt
     )
-    
+
     $response = Invoke-WebRequest -Uri "$Url/api/Profile" -Headers @{ "Authorization" = "Bearer $Jwt"; "accept" = "text/plain"; }
     EnsureSuccessfulResponse($response)
     return $response.Content | ConvertFrom-Json
